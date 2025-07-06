@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 40PX;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+   
+}
+.header h3{
+    margin: 0;
+}
+
+#hr{
+    margin: 0;
+    color: rgba(185, 177, 177, 0.138);
+}
+
+.nav{
+    position:sticky;
+    top: 0;
+ display: flex;
+ gap: 20px;   
+ color: white;
+ background-color: black;
+ padding-left: 10rem;
+}
+.nav img{
+    padding-top: 16px;
+    width:  120px;
+    height: 25px;
+}
+.img1{
+display: flex;
+ justify-content: space-around;
+ margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img1 img{
+    display: flex;
+   
+   height: 356px;
+   width: 356px;
+}
+.img2{
+display: flex;
+ justify-content: space-around;
+ margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img2 img{
+    display: flex;
+   
+   height: 356px;
+   width: 356px;
+}
+.img3{
+display: flex;
+ justify-content: space-around;
+ margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img3 img{
+    display: flex;
+   
+   height: 356px;
+   width: 356px;
+}
+.imglast{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.imglast img{
+    
+      height: 356px;
+   width: 356px;
+}
+.lastsen{
+ padding-left:60px ;
+ padding-top: 2rem;
+
+}
+
+.lastsen span{
+    
+  padding: 1rem 1rem;
+    background-color:black;
+    color: white
+} 
+.lastnote{
+    margin-top: 50px;
+}
+.last{
+    padding-top:20px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    padding-bottom: 5rem;
+}
+.ri-user-line{
+    font-size: 25px;
+    padding-left: 800px;
+    padding-top: 30px;
+}
+.ri-shopping-bag-2-line{
+        font-size: 25px;
+    padding-top: 30px;
+}
